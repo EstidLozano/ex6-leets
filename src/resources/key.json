@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hack2020-2-leets",
+  "private_key_id": "8f8d80a607ab376b8a48134c2919f3db36bcb013",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCRkulSm61ZMack\nYns3Dx9oxRnfEGMfWIi31gpE7OSE4qpKFp0xhn7Li+vWxUjcfBP7MPv6ds2lW0zH\nFpzoc7/6smYNbhm7mwKoU+dJ+36ly46dzIjz6RBNs3OW6qjg+aCW3/t3icLbAS9V\nOzYWsK+FK2sCIIHHp0U7LiyM7o/oM801I7yzI8v7oNRp2yn76+Rzp7EQbRSRODY3\n00XaDv6vyOqG3mv0XMgDyMptZxM2TCKnsa5T28IrfjDY4f3yNB3MJ6NY5OOxx6ln\nV5GoCmIWqmL4wXJnBGQ42KP/EBqlQidBg926hq+Wqi7xb89Kh87czr2nVwLlGTxg\nSKyt/ejHAgMBAAECggEAAadB1SQFf6ortCMWM9WNIsXSTxFC6ZvkzvRfC3yxSme/\nTWDHtO9Kc19fH1eq8IN26qHEyt8cjiXk+lc3EwDK4RBeTlq+GhO0SlshmQUtNrmC\ny3yuNYROdhjKqvUhU+TMk8oZc2Mc08XwrAQkeh9+7taZEYjIUI8wHxry0JWeYXcT\nbqdRjobMpqbf3oZoFohJ8612YSlXUSJjc52N0fypZ8ezAG8KCcj1wNwtMNteCn0P\npziPZ/DXKkhWYamzjGcq40BhlS536cbelXzhiHVkWMgzRI7iGgld7RklQIh5RFSi\n6O6K8pupsITKixqgAga72KuX4YUjjA5hVGEPYWHraQKBgQDBj6cRNuqLE3zOsQva\nA0TBRyrYZccHQ3TpQtXfpos27+mc2CHNKEHrSmV05qPI3RM3/BTLH47dCF130naV\nhhQVU6a3Nr1112cV7rJvjMHVwowoIyjjYR2gOwVknt9kYKsUZY/ha6KLTEpZwUIL\nb5SZ39I5oLdzJI4eigZwYoOh8wKBgQDAiHP/zUTi27FtrmWhC6s2cgx5wY8Swf+h\nkBnpDaGRQZz/6IDX1fcF1B/KkQDjrVX8zT6p8HYEDHwYS0rGvQv8LKGnJ0ufwOLq\ntQRlK9FipylVSRrpRoOcgjbeCfUqeDaTS1iR3d8cFp6Fi/NfbrNHiUYoKDUIv8QT\nmg0fmKT+3QKBgQCrv/PWaowja99K5/5ELLJNbgCuk2DPKSQL9qogEX9l9+uqqH0V\ntasIRLNRz3V1PfVXr+4jbpUtu8Z0E+P1OUuIwPkliQUEE2X9KBhcsuEr87y5wLj/\nSaUoEDbw2agPQVeMebH5q7BHOiKfEcSwsQmCn//B8sHVAZK5tm+QOVnj0QKBgQCW\ncAhzb+jLee4BTauLUprNSAAHgv5QIdWkX/xe5Y/A+Au8yecivsTtgPn2Rab0P5RY\nm+bC0mjkcPzl3q7m6wBaYmVNPp8QjJ7B1f9BLiPFeegKA71LWRWtTPGiPRWbwaKj\nJNRn5X1XbTUgFGJtxwm+c7yl1ATceTq0NkLa1WLW4QKBgHyR0PoJPsUPH9MxJ/Mp\nlzj60NM9N7i6dgnjxrCcYwL/ZQikObKwBQdXQbM66QEaos7lNYZXPVG/TiEzOi2d\nCKPpzOQG3Tr9iSDVE/z5irqhVnf7wmpdpRWQN2DuEMAwPPlqcPH0mI2IzWy5XgZs\nZxevljYetjIke89TwtcQi8lB\n-----END PRIVATE KEY-----\n",
+  "client_email": "ex6-leets@hack2020-2-leets.iam.gserviceaccount.com",
+  "client_id": "113300647827437488899",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ex6-leets%40hack2020-2-leets.iam.gserviceaccount.com"
+}
